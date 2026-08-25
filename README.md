@@ -1,2 +1,2 @@
 # ef-CompSci
-For ef projects
+For different projects from the EF Computer Science
